@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ardiente_NumSystemConversion/1.0.0": {
+        "runtime": {
+          "Ardiente_NumSystemConversion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ardiente_NumSystemConversion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
